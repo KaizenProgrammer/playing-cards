@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\mb7092\\Documents\\github\\playing-cards\\Libraries\\PlayingCards.Core.Tests\\PlayingCards.Core.Tests.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
