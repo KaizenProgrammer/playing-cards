@@ -1,0 +1,9 @@
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core\bin\Debug\netstandard2.0\PlayingCards.Core.deps.json
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core\bin\Debug\netstandard2.0\PlayingCards.Core.dll
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core\bin\Debug\netstandard2.0\PlayingCards.Core.pdb
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core\obj\Debug\netstandard2.0\PlayingCards.Core.csprojAssemblyReference.cache
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core\obj\Debug\netstandard2.0\PlayingCards.Core.csproj.CoreCompileInputs.cache
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core\obj\Debug\netstandard2.0\PlayingCards.Core.AssemblyInfoInputs.cache
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core\obj\Debug\netstandard2.0\PlayingCards.Core.AssemblyInfo.cs
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core\obj\Debug\netstandard2.0\PlayingCards.Core.dll
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core\obj\Debug\netstandard2.0\PlayingCards.Core.pdb

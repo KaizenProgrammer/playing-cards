@@ -1,0 +1,17 @@
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\bin\Debug\netcoreapp2.2\PlayingCards.Core.Tests.deps.json
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\bin\Debug\netcoreapp2.2\PlayingCards.Core.Tests.runtimeconfig.json
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\bin\Debug\netcoreapp2.2\PlayingCards.Core.Tests.runtimeconfig.dev.json
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\bin\Debug\netcoreapp2.2\PlayingCards.Core.Tests.dll
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\bin\Debug\netcoreapp2.2\PlayingCards.Core.Tests.pdb
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\bin\Debug\netcoreapp2.2\PlayingCards.Core.dll
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\bin\Debug\netcoreapp2.2\PlayingCards.Core.pdb
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\obj\Debug\netcoreapp2.2\PlayingCards.Core.Tests.csprojAssemblyReference.cache
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\obj\Debug\netcoreapp2.2\PlayingCards.Core.Tests.csproj.CoreCompileInputs.cache
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\obj\Debug\netcoreapp2.2\PlayingCards.Core.Tests.AssemblyInfoInputs.cache
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\obj\Debug\netcoreapp2.2\PlayingCards.Core.Tests.AssemblyInfo.cs
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\obj\Debug\netcoreapp2.2\PlayingCards.Core.Tests.csproj.CopyComplete
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\obj\Debug\netcoreapp2.2\PlayingCards.Core.Tests.dll
+C:\Users\mb7092\Documents\github\playing-cards\Libraries\PlayingCards.Core.Tests\obj\Debug\netcoreapp2.2\PlayingCards.Core.Tests.pdb

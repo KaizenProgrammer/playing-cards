@@ -1,0 +1,13 @@
+{
+    "label": "Start MS Test",
+    "type": "shell",
+    "isBackground": true,
+    "command": "${cwd}\\launch-tests.bat",
+    "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+    },
+    "problemMatcher": []
+}
