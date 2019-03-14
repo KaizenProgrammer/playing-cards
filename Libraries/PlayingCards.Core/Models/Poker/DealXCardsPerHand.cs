@@ -1,28 +1,31 @@
+﻿using System;
 using System.Collections.Generic;
 
 namespace PlayingCards.Core
 {
-    public class NinesDealer : IDealer
+    public class DealXCardsPerHand : IDealer
     {
         int handCount=0;
+        int maxCardCount=0;
         bool stopDealing=false;
-        public NinesDealer(int numberOfPlayers){
+        public DealXCardsPerHand(int numberOfPlayers, int numberOfCardsPerPlayer){
             handCount=numberOfPlayers;
+            maxCardCount=numberOfCardsPerPlayer;
         }
         Stack<ICard> cards = new Stack<ICard>();
         public int HandCount => handCount;
 
         public bool CanDeal(IHand hand)
         {
-            if(hand.CardCount >= 9){
+            if(hand.CardCount >= maxCardCount){
                 //Hands filled;
                 stopDealing=true;
             }
-            return hand.CardCount < 9 ;
+            return hand.CardCount < maxCardCount ;
         }
 
         public bool CanDeal()
-        {            
+        {       
             return cards.Count>0 && !stopDealing;
         }
 
@@ -31,12 +34,20 @@ namespace PlayingCards.Core
             return cards.Pop();
         }
 
+        public ICard[] GetRemainingCards(){
+           return cards.ToArray();
+        }
+
         public void SetCards(ICard[] cards)
         {
+            if(cards.Length / this.maxCardCount < this.handCount){
+                throw new Exception($"Dealer does not have enough cards to deal {handCount} hands. Need {maxCardCount*handCount} cards but only have {cards.Length}");
+            }
             this.cards=new Stack<ICard>();
             foreach(var card in cards){
                 this.cards.Push(card);
             }
+            
         }
 
         public IHand CreateHand()

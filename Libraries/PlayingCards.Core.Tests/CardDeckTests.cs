@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -43,20 +42,7 @@ namespace PlayingCards.Core.Tests
             }
         }
 
-        [TestMethod]
-        public void DealHandsUntilOutOfCards()
-        {
-            var deck = new PokerDeck();
-            deck.Shuffle(5);
-
-            var dealer=new NinesDealer(4);
-            var hands=deck.Deal(dealer);
-            Assert.IsTrue(hands.Length==4);
-
-            foreach(var hand in hands){
-                Assert.IsTrue(hand.CardCount==9);
-            }
-        }
+        
 
     }
 }
